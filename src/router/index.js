@@ -163,7 +163,7 @@ const routes = [
 ];
 
 const router = createRouter({
-  history: createWebHistory('/project-rule/dist'),
+  history: createWebHashHistory(),
   routes
 });
 

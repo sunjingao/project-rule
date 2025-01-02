@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite --mode dev",
-    "build": "vite build --mode sit"
+    "doc": "vite build --mode sit"
   },
   "dependencies": {
     "@ant-design/icons-vue": "^7.0.1",
