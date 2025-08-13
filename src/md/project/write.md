@@ -189,3 +189,14 @@ async function clickconfirm() {
   */  
 * 
 ```
+
+
+> 规则：数据要显示声明出来
+原因：  
+直接赋值，团队成员开发时并不知道有哪些内容，不易阅读和调用  
+举例：  
+比如下面的状态管理中，user属性并没有显示的声明内容，也没有显示的进行赋值，导致团队成员开发时都不能清晰的知道其有哪些属性值，阅读不清晰
+![img.png](./asset/clear-dec/dec.png)
+![img.png](./asset/clear-dec/use.png)
+
+
