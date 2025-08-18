@@ -1,4 +1,4 @@
-import{d as t,o as s,c as o,b as e}from"./index-Bf291rUQ.js";const i={class:"markdown-body"},n=e("h1",null,"JS规范",-1),p=e("h2",null,"说明",-1),l=e("p",null,"使用推荐的Eslint配置即可，根据团队习惯，进行部分自定义改造",-1),u=e("h3",null,"eslint配置",-1),a=e("p",null,"eslint.config.mjs",-1),f=e("pre",null,[e("code",{class:"language-js"},`import js from '@eslint/js';
+import{d as t,o as s,c as o,b as e}from"./index-DEsTUIAV.js";const i={class:"markdown-body"},n=e("h1",null,"JS规范",-1),p=e("h2",null,"说明",-1),l=e("p",null,"使用推荐的Eslint配置即可，根据团队习惯，进行部分自定义改造",-1),u=e("h3",null,"eslint配置",-1),a=e("p",null,"eslint.config.mjs",-1),f=e("pre",null,[e("code",{class:"language-js"},`import js from '@eslint/js';
 import pluginVue from 'eslint-plugin-vue';
 import * as parserVue from 'vue-eslint-parser';
 import configPrettier from 'eslint-config-prettier';

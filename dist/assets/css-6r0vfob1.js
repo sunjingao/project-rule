@@ -1,4 +1,4 @@
-import{d as t,o as n,c as o,b as e}from"./index-Bf291rUQ.js";const l={class:"markdown-body"},r=e("h1",null,"CSS规范",-1),i=e("h2",null,"说明",-1),c=e("p",null,"使用推荐的Stylelint配置即可，根据团队习惯，进行部分自定义改造",-1),a=e("h3",null,"stylelint配置",-1),u=e("p",null,"stylelint.config.cjs",-1),d=e("pre",null,[e("code",{class:"language-js"},`module.exports = {
+import{d as t,o as n,c as o,b as e}from"./index-DEsTUIAV.js";const l={class:"markdown-body"},r=e("h1",null,"CSS规范",-1),i=e("h2",null,"说明",-1),c=e("p",null,"使用推荐的Stylelint配置即可，根据团队习惯，进行部分自定义改造",-1),a=e("h3",null,"stylelint配置",-1),u=e("p",null,"stylelint.config.cjs",-1),d=e("pre",null,[e("code",{class:"language-js"},`module.exports = {
     /* 继承某些已有的规则 */
     extends: [
         "stylelint-config-standard",
